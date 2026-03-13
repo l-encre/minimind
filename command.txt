@@ -1,0 +1,1 @@
+python train_pretrain.py --dtype float16 --batch_size 16 --num_workers 0 --from_resume 1 --epochs 2
